@@ -15,4 +15,14 @@ man ls ---------------------------------> se usa para saber el significado de un
 ip addr --------------------------------> se usa para saber la direccion ip
 sudo apt install openssh-server---------> instalar el paquete de transferencia de archivos
 touch "archivo.txt" --------------------> crear un archivo
-
+nano "archivo.txt" ---------------------> permite editar el contenido de un archivo
+cat "archivo.txt" ----------------------> permite ver el contenido de un archivo
+more "archivo.txt" ---------------------> permite ver el contenido de un archivo
+ps -aux --------------------------------> ver lista de procesos que estan corriendo
+pstree ---------------------------------> ver procesos
+htop -----------------------------------> ver procesos
+grep -----------------------------------> buscar texto en cualquier lugar
+ps -aux | grep "firefox" ---------------> se concatenan comandos con | y permite encontrar el proceso de firefox
+kill -9 "numero de proceso" ------------> se elimina el proceso, se cierra
+root -----------------------------------> usuario administrador
+su root --------------------------------> permitir el acceso al usuario admin
