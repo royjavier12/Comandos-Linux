@@ -1,0 +1,18 @@
+Comandos 
+
+pwd ------------------------------------> saber en que directorio me encuentro
+sudo apt update ------------------------> tener acceso a un comando y poder actualizar
+sudo apt install -----------------------> tener acceso y poder instalar un paquete
+clear ----------------------------------> limpiar la terminar
+sudo apt search ------------------------> buscar el paquete que se quiere instalar
+lsb_release -a -------------------------> cual es la version del SO
+uname -a -------------------------------> version del kerner
+mkdir ----------------------------------> crear un directorio
+mkdir "Nueva Carpeta" ------------------> crear una nueva carpeta
+ls -------------------------------------> lista de directorios 
+ls -l ----------------------------------> lista de archivos
+man ls ---------------------------------> se usa para saber el significado de un comando ************
+ip addr --------------------------------> se usa para saber la direccion ip
+sudo apt install openssh-server---------> instalar el paquete de transferencia de archivos
+touch "archivo.txt" --------------------> crear un archivo
+
