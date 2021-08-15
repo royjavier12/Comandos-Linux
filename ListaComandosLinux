@@ -49,3 +49,19 @@ chown
 chmod
 nano 
 touch
+
+Comandos Docker
+docker images 
+dockker pull [imagen o contenedor]
+docker ps -a
+docker info
+docker network ls
+docker network create --dirver bridge
+docker run [imagen]
+docker run -ti
+docker rm
+docker stop
+docker rmi
+vim Dockerfiledocker build -t [contenedor]
+vim Dockerignoredocker service create --name web
+
